@@ -1,0 +1,3 @@
+This will copy an array, ONLY accepting the items that are numbers
+Will return a new array.
+By Erik Nordland
